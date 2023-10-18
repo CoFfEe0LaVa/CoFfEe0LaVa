@@ -9,7 +9,7 @@
     }
   }
   ```
-  - I`m using java , php , JS , Ruby , HTML and CSS 
+  - I`m using java , php , JS ,HTML and CSS 
 
 <!---
 CoFfEe0LaVa/CoFfEe0LaVa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
